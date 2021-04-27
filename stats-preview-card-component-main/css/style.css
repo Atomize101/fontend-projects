@@ -7,7 +7,7 @@
 }
 
 html {
-	font-size: 100%;
+	font-size: 15px;
 }
 
 body {
@@ -19,4 +19,14 @@ body {
 	padding: 3rem;
 	/* Padding around the entire page */
 	box-sizing: border-box;
+	background-color: rgb(35, 42, 97);
+}
+
+.card {
+	position: relative;
+	background-color: #e4e3f2;
+}
+
+.header-image {
+	text-align: right;
 }
